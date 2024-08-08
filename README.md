@@ -1,20 +1,16 @@
-# Tên Dự Án
+# Analyst GDP by Country
 
-Mô tả ngắn gọn về dự án của bạn.
+This project provides an analytical tool for examining Gross Domestic Product (GDP) data across various countries. It enables users to visualize and compare GDP metrics, facilitating economic insights and comparisons on a global scale. The tool supports data processing, visualization, and comparative analysis to aid in understanding economic performance and trends worldwide.
 
-## Mô Tả
-
-Dự án này là một công cụ/ứng dụng (hoặc mô tả khác) để (mô tả chức năng chính của dự án). 
-
-## Yêu Cầu
+## Requirements
 
 - Python 3.x
-- Các thư viện Python cần thiết: `Pillow`, `numpy`
+- Import Library : `Pandas`, `Numpy`, `Matplotlib`, `Searborn`
 
-## Cài Đặt
+## Installation
 
-1. **Clone dự án**
+1. **Clone Project**
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/username/repository.git](https://github.com/HoangTruong1910/Analyst-GPD.git
    cd repository
