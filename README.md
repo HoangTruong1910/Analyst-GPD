@@ -50,6 +50,9 @@ python analyze_gdp.py'''
 ## Results
 * Analysis Report: The report.pdf file contains the analysis results and visualizations.
 * GDP Map: The gdp_map.png file provides a world map view of GDP distribution among countries.
+![image](https://github.com/user-attachments/assets/572d6180-a963-4d67-8002-4fd9089afd08)
+![image](https://github.com/user-attachments/assets/acf3b6b2-9477-4809-907d-037990c535db)
+![image](https://github.com/user-attachments/assets/ea3198f6-2c61-4def-895e-ef71b3d1ea67)
 
 ## Contributing
 We welcome contributions to improve this project! If you find any issues or have suggestions for new features, please open an issue or submit a pull request.
