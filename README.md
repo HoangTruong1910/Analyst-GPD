@@ -1,3 +1,20 @@
-## Descriptions 
-1.	This is an analysis of global GDP data from 2000 to 2022. With the data set taken from the World Bank, I took many fields (Imports, Exports, Manufacture...) and processed it again to create a data set to analyze the global GDP situation (learn more at Dataset_For_DA.csv).
-2.	With the detailed analysis in the file GDP_BY_COUNTRY.ipynb.
+# Tên Dự Án
+
+Mô tả ngắn gọn về dự án của bạn.
+
+## Mô Tả
+
+Dự án này là một công cụ/ứng dụng (hoặc mô tả khác) để (mô tả chức năng chính của dự án). 
+
+## Yêu Cầu
+
+- Python 3.x
+- Các thư viện Python cần thiết: `Pillow`, `numpy`
+
+## Cài Đặt
+
+1. **Clone dự án**
+
+   ```bash
+   git clone https://github.com/username/repository.git
+   cd repository
